@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seyedmohammadmortaji
-- 👀 I’m interested in autonomous devices and systems.
-- 🌱 I’m currently learning JAVA and SQL.
+- 👀 I’m interested in embedded systems.
+- 🌱 I’m currently learning JAVA and programming.
 - 💞️ I have no idea what I’m looking to collaborate on.
 - 📫 Just search meon the web and you will find me:)
 
