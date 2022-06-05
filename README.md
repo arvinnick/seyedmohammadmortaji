@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seyedmohammadmortaji
+- 👋 Hi, I’m @arvinnivk
 - 👀 I’m interested in embedded systems.
 - 🌱 I’m currently learning JAVA and programming.
 - 💞️ I have no idea what I’m looking to collaborate on.
